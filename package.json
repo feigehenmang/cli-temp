@@ -1,0 +1,27 @@
+{
+  "name": "cli-temp",
+  "version": "1.0.0",
+  "description": "一个用来简化操作的命令行工具",
+  "main": "index.js",
+  "bin": {
+    "li": "./bin/li"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feigehenmang/cli-temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feigehenmang/cli-temp/issues"
+  },
+  "homepage": "https://github.com/feigehenmang/cli-temp#readme",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "esm": "^3.2.25"
+  }
+}
