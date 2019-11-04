@@ -1,5 +1,6 @@
 # cli-temp
 一个用来简化操作的命令行工具
+[掘金文章地址](https://juejin.im/post/5db9bbc0518825646350037c?utm_source=gold_browser_extension)
 ## 创建步骤即详解
 1. npm init -y // 初始化项目
 2. 创建index.js
